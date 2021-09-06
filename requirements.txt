@@ -11,12 +11,9 @@ docutils
 ecdsa
 feedgenerator
 paramiko
-pelican
 pycrypto
 python-dateutil
 pytz
 six
 smartypants
 typogrify
-wsgiref
-
