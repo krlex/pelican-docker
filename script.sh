@@ -16,6 +16,6 @@ docker run \
 -v ~/extras/pelican-plugins:/project/pelican-plugins  \
 -v ~/extras/pelican-themes:/project/pelican-themes \
 -ti \
-chrisramsay/docker-pelicanbox:latest \
+witchman/pelican:latest \
 /bin/bash
 
