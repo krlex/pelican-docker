@@ -1,5 +1,4 @@
 FROM alpine:3.10
-LABEL mantainer 'Thiago Rocha <me@thiroc.me'
 
 RUN apk update && apk upgrade
 RUN apk add --no-cache git
